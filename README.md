@@ -1,2 +1,2 @@
-# hospital-management-API
+# Hospital-Management-API
 A Health System API that addresses the complex requirements of modern healthcare management.
