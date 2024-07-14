@@ -1,4 +1,4 @@
-#Hospital Management API#
+# Hospital Management API
 
 The proects presents students with the challenge of designing and implementing a Health System API that addresses the complex requirements of modern healthcare 
 management. The API will serve as the foundation upon which various healthcare applications and systems can be built, providing essential functionalities for patient 
